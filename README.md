@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Me chamo Caroline, mas pode me chamar de Carol<br>- Estudando e evoluindo para entregar minha melhor versão no mundo da tecnologia<br><br>📊 Analista de Dados<br>🛎️ Open to work<br>🌎 Rio Grande do Sul, Brasil <br><br>    O impossível reside nas mãos inertes daqueles que não tentam.<br>-Epicuro</p>
+<p align="left">- Me chamo Caroline, mas pode me chamar de Carol<br>📊 Analista de Dados<br>🛎️ Open to work<br>🌎 Rio Grande do Sul, Brasil <br><br>   
 
 ###
 
